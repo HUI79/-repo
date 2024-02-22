@@ -8,6 +8,6 @@
 ## 課程筆記區
 
 ## 作業連結區
-[前測]()
+[前測+中測](https://github.com/HUI79/-repo/blob/main/0222-ADULT.ipynb)
 
 ## 專題連結區
